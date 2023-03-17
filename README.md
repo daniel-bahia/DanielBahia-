@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react.js, javascript and Front-end developer**
 
-- 📫 How to reach me **https://www.linkedin.com/in/dev-danibahia/**
+- 📫 How to reach me **danielbahia12@yahoo.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
