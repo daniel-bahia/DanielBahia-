@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Bahia</h1>
-<h3 align="center">A passionate frontend developer from Brazil!</h3>
+<h3 align="center">A passionate Front-End developer from Brazil!</h3>
 
 - 🔭 I’m currently working on **Full Stack Software Development Student**
 
-- 👯 I’m looking to collaborate on **on projects with React.js and JavaScript - Front-End developer**
+- 👯 I’m looking to collaborate **on projects with React.js and JavaScript - Front-End developer**
 
 - 💬 Ask me about **react.js, javascript and Front-end developer**
 
