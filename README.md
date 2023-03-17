@@ -1,5 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Olá 👋, Me chamo Daniel Bahia!
  Sou um desenvolvedor Front-End formado pela Trybe! 
 - 🔭 Atualmente, estou desenvolvendo projetos pessoais bem divertidos e pretendo me desenvolver ainda mais.
